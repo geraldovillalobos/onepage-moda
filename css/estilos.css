@@ -1,14 +1,16 @@
-
 h1{
     padding: 0;
     margin: 0;
-}                           
+}    
+                    
 #men{
     font-weight: 800;
 }
 #sub{
     font-size: 20pt;
+    
 }
+
 #red li a{
     font-size: 20pt;
 }
@@ -112,32 +114,19 @@ font-size: 20pt;
         width: 100%;
 
     }
+    #nombre{
+        font-size: 25pt;
+    }   
     #basico{
         width: 100%;
     }
     .f{
        width: 100% ; 
     }
+    #boxi{
+        width: 100%;
+    }
+    #guia,#bas,#titul,#tienda{
+        font-size: 22pt;
+    }
 }
-/*
-
-
-   <div class="col s12">
-                   <div class="carousel center">
-            <a class="carousel-item" href="#one!"><img src="img/1.jpg"></a>
-            <a class="carousel-item" href="#two!"><img src="img/2.jpg"></a>
-            <a class="carousel-item" href="#three!"><img src="img/3.jpg"></a>
-            <a class="carousel-item" href="#four!"><img src="img/4.jpg"></a>
-            <a class="carousel-item" href="#five!"><img src="img/5.jpg"></a>
-          </div>
-            </div>
-  
-      <div class="redes ">
-            <li class="collection-item"><a class="grey-text text-lighten-3" href="#!"></a><i class="fa fa-facebook"></i></li>
-            
-            <li class="collection-item"><a class="grey-text text-lighten-3" href="#!"></a><i class="fa fa-pinterest"></i></li>
-           <li class="collection-item"><a class="grey-text text-lighten-3" href="#!"></a><i class="fa fa-google"></i></li>
-            <li class="collection-item"><a class="grey-text text-lighten-3" href="#!"></a><i class="fa fa-twitter"></i></li>
-            
-        </div>        
-*/
